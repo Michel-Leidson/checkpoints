@@ -5,7 +5,7 @@
 1 - Before you begin, you might want to make sure your system is up to date.
 ###
 ```
-sudo apt update && sudo apt upgrade -y && sudo apt install -y build-essential curl wget jq
+sudo apt update && sudo apt upgrade -y && sudo apt install -y build-essential
 ``` 
 2- Download Repository
 ###
