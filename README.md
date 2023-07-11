@@ -22,6 +22,7 @@ cd bot-checkpoints
 ```
 nano .env
 ``` 
+``` 
 DISCORD_URL_WEBHOOK=######
 NOTIFY_COLOR_MESSAGE=###
 DISCORD_BOT_TOKEN=######
