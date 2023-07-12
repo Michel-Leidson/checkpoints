@@ -10,7 +10,7 @@ sudo apt update && sudo apt upgrade -y && sudo apt install -y build-essential
 2- Download Repository
 ###
 ```
-git clone https://github.com/Michel-Leidson/bot-checkpoints.git
+git clone https://github.com/Michel-Leidson/checkpoints.git
 ```
 3- Enter in directory
 ###
